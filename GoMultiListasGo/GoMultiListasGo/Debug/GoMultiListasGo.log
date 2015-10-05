@@ -1,0 +1,15 @@
+﻿Compilación iniciada a las 21/06/2015 12:26:33 a.m..
+     1>Proyecto "C:\Users\Angelo\Documents\UPC\Ciclo_5\Estructuras de Datos y Algoritmos\multilistas\GoMultiListasGo\GoMultiListasGo\GoMultiListasGo.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Angelo\Documents\UPC\Ciclo_5\Estructuras de Datos y Algoritmos\multilistas\GoMultiListasGo\Debug\GoMultiListasGo.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Angelo\Documents\UPC\Ciclo_5\Estructuras de Datos y Algoritmos\multilistas\GoMultiListasGo\Debug\GoMultiListasGo.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\GoMultiListasGo.res
+         Debug\Source.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         GoMultiListasGo.vcxproj -> C:\Users\Angelo\Documents\UPC\Ciclo_5\Estructuras de Datos y Algoritmos\multilistas\GoMultiListasGo\Debug\GoMultiListasGo.exe
+     1>Compilación del proyecto terminada "C:\Users\Angelo\Documents\UPC\Ciclo_5\Estructuras de Datos y Algoritmos\multilistas\GoMultiListasGo\GoMultiListasGo\GoMultiListasGo.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:06.81

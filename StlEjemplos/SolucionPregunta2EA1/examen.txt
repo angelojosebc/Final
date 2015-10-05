@@ -1,0 +1,25 @@
+3
+10
+10
+Hola mundo
+1
+L
+200
+7
+Coquito
+30
+10
+Hola mundo
+1
+L
+200
+7
+Coquito
+20
+10
+Hola mundo
+1
+L
+200
+7
+Coquito
